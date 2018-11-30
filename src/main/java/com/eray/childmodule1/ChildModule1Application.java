@@ -10,5 +10,6 @@ public class ChildModule1Application {
 
 		SpringApplication.run(ChildModule1Application.class, args);
 		System.out.println("test");
+		System.out.println("test1");
 	}
 }
